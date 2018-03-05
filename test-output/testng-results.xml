@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46764" started-at="2018-03-05T15:40:46Z" finished-at="2018-03-05T15:41:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46764" started-at="2018-03-05T15:40:46Z" finished-at="2018-03-05T15:41:32Z">
+      <class name="Enquiry_form.Enquiry_Form">
+        <test-method status="PASS" signature="Enquiry_a_form(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Enquiry_form.Enquiry_Form@5b275dab]" name="Enquiry_a_form" duration-ms="46035" started-at="2018-03-05T15:40:46Z" finished-at="2018-03-05T15:41:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mat]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Artthur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[matarthurst@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[647 927 8888 ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enquiry_a_form -->
+      </class> <!-- Enquiry_form.Enquiry_Form -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,3 @@
+dpath = /home/riya/geckodriver
+url = http://content.mindsea.com/schedule-your-free-meeting-with-our-product-strategist
+excel_path = /home/riya/eclipse-workspace/SeleniumCourse/TestData/Enquiry_credentials.xlsx
